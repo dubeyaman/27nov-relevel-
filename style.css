@@ -1,0 +1,18 @@
+.heading{
+    color: lightgreen;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.main{
+    display: flex;
+
+    justify-content: space-evenly;
+    text-align: center;
+    margin-left: 50px;
+    padding: 10px;
+    align-items: center;
+    
+    border: 1px solid grey
+}
